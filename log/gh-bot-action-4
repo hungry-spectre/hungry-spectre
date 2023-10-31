@@ -1,0 +1,4 @@
+gh pr edit 4 --add-reviewer bogusman
+gh pr edit 4 --add-assignee hungry-spectre
+gh pr edit 4 --add-reviewer bogusman
+gh pr edit 4 --add-assignee hungry-spectre
